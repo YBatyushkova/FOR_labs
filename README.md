@@ -1,3 +1,3 @@
 # FOR_labs
 
-Labs and exercises for the course FOR 2022
+Politecnico di Milano, Foundations of Operational Research, 2022: labs and exercises
